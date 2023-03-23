@@ -2,7 +2,7 @@
     "data" : [
         {
           
-            "network": "max",
+            "network": "admob",
             
             "max_ban": "30709e14bf62a133",
             "max_int": "6d1e410d9c98bf87",
